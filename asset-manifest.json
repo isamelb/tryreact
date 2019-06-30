@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tryreact/static/css/main.e4578ca7.chunk.css",
+    "main.js": "/tryreact/static/js/main.c1a356ac.chunk.js",
+    "main.js.map": "/tryreact/static/js/main.c1a356ac.chunk.js.map",
+    "runtime~main.js": "/tryreact/static/js/runtime~main.593f508f.js",
+    "runtime~main.js.map": "/tryreact/static/js/runtime~main.593f508f.js.map",
+    "static/js/2.881939cd.chunk.js": "/tryreact/static/js/2.881939cd.chunk.js",
+    "static/js/2.881939cd.chunk.js.map": "/tryreact/static/js/2.881939cd.chunk.js.map",
+    "index.html": "/tryreact/index.html",
+    "precache-manifest.51c6552e4cca09e76d60dc0ea2d1bf9b.js": "/tryreact/precache-manifest.51c6552e4cca09e76d60dc0ea2d1bf9b.js",
+    "service-worker.js": "/tryreact/service-worker.js",
+    "static/css/main.e4578ca7.chunk.css.map": "/tryreact/static/css/main.e4578ca7.chunk.css.map"
+  }
+}
